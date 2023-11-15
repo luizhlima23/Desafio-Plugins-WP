@@ -15,3 +15,5 @@ Case: João quer mapear a utilização de um botão no seu site WordPress. A cad
  
 
 ## B) Crie um plugin que adicione um comando ao WP-CLI que imprima um relatório de histórico de registros. Esse relatório pode ser apenas a listagem das últimas entradas com seus respectivos.
+
+### Instruções  de uso -
