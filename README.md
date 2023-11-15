@@ -16,3 +16,7 @@ Case: João quer mapear a utilização de um botão no seu site WordPress. A cad
 ## B) Crie um plugin que adicione um comando ao WP-CLI que imprima um relatório de histórico de registros. Esse relatório pode ser apenas a listagem das últimas entradas com seus respectivos.
 
 ### Instruções  de uso -
+  #### 1 - Baixe a pasta "Desafio Plugin 1" como zip, adicione ela ao sua pasta de instalação do WordPress /pasta/wp-content/plugins 
+  #### 2 - Descompacte a pasta e ative o plugin no seu painel de administrador.
+  #### 3 - Acesse a pasta da sua instalação WordPress pelo terminal.
+  #### 4 - Execute o comando 'wp exp_relatorio', ele vai retornar as informações que estão dentro da tabela criada no primeiro plugim.
