@@ -7,7 +7,7 @@ Case: João quer mapear a utilização de um botão no seu site WordPress. A cad
 
 ## 1- Crie um plugin que adicione um shortcode ou widget customizado ao site. Esse shortcode/widget deverá mostrar um botão na página que, quando clicado, adicionará um registro de data e hora no banco de dados wordpress. A tabela utilizada para guardar esse registro fica à sua escolha.
 
-###Instruções - Baixe a pasta como zip do 
+### Instruções - Baixe a pasta como zip do 
 
 
 ## B) Crie um plugin que adicione um comando ao WP-CLI que imprima um relatório de histórico de registros. Esse relatório pode ser apenas a listagem das últimas entradas com seus respectivos.
