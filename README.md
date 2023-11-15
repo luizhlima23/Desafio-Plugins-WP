@@ -24,4 +24,4 @@ Case: João quer mapear a utilização de um botão no seu site WordPress. A cad
   #### 2 - Descompacte a pasta e ative o plugin no seu painel de administrador.
   #### 3 - Acesse a pasta da sua instalação WordPress pelo terminal.
   #### 4 - Execute o comando 'wp exp_relatorio', ele vai retornar as informações que estão dentro da tabela criada no primeiro plugim.
-       5 - Lembre-se que é necessário ter o WP-CLI configurado na maquina. 	[Configurar WP-CLI](https://forma.hastedesign.com.br/wordpress/wp-cli-ganhe-tempo-com-linha-de-comando-do-wordpress/)
+  5 - Lembre-se que é necessário ter o WP-CLI configurado na maquina. 	[Configurar WP-CLI](https://forma.hastedesign.com.br/wordpress/wp-cli-ganhe-tempo-com-linha-de-comando-do-wordpress/)
