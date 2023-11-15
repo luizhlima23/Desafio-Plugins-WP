@@ -9,8 +9,8 @@ Case: João quer mapear a utilização de um botão no seu site WordPress. A cad
 
 ### Instruções - 
   #### 1 - Baixe a pasta "Desafio Plugin 1" como zip, adicione ela ao sua pasta de instalação do WordPress /pasta/wp-content/plugins 
-  2 - Descompacte a pasta e ative o plugin no seu painel de administrador.
-  3 - Vá em uma pagina ou post para testar, adicione um shortcode e escreva [btn] inclua as 
+  #### 2 - Descompacte a pasta e ative o plugin no seu painel de administrador.
+  #### 3 - Vá em uma pagina ou post para testar, adicione um shortcode e escreva [btn] inclua as 
  
 
 ## B) Crie um plugin que adicione um comando ao WP-CLI que imprima um relatório de histórico de registros. Esse relatório pode ser apenas a listagem das últimas entradas com seus respectivos.
